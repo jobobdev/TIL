@@ -1,0 +1,14 @@
+# Django Login Page & Admin Creation
+
+- Created the first admin database for user login
+- Created simple user login page with login.html
+- Created admin account and checked database successfully built
+
+## What I learned
+- Understood the basic logic of how SQL DB is made with django
+- Got a grasp of utilizing models.py, views.py, and Templates/html
+
+### To Dos
+- Make actual user account creation possible
+- Build authentication logic for user login/signup
+
